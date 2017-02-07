@@ -1,0 +1,3 @@
+[submodule "luadev"]
+	path = luadev
+	url = https://github.com/Noiwex/luadev
