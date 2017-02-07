@@ -1,3 +1,3 @@
 ##Hello world
 Another line
-conflict
+Third line
